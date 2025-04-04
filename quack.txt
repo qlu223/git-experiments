@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 quacky
+=======
+quacker
+>>>>>>> c671fbd3f179f682e34c5b50f68680f297fc8250
