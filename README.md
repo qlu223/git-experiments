@@ -13,3 +13,8 @@
 3. Added changed with git add *
 4. Committed changes with git commit -m "comment"
 5. Pushed changes with git push -u origin cynthia
+
+## Part 3
+1. Switched to the main branch with git checkout main
+2. Created a change on the same line as Albert
+3. 
