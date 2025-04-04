@@ -6,3 +6,10 @@
 4. Pulled with git pull 
 5. Pushed to github with git push
 6. Had Albert check to see if he could retrieve my changes as a collaborator
+
+## Part 2
+1. Created a branch locally with git checkout -b cynthia
+2. Added extra text to quack.txt
+3. Added changed with git add *
+4. Committed changes with git commit -m "comment"
+5. Pushed changes with git push -u origin cynthia
