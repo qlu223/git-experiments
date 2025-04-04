@@ -17,4 +17,4 @@
 ## Part 3
 1. Switched to the main branch with git checkout main
 2. Created a change on the same line as Albert
-3. 
+3. Accepted incoming or current change and pushed to main
